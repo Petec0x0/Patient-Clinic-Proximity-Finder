@@ -1,0 +1,101 @@
+Clinic ID,Clinic Name,Clinic Address,Postal Code,FSA,Clinic City,Province
+1,Clinic 1,8308 114 St Nw Suite 2020,T6G 2V2,T6G,Edmonton,AB
+2,Clinic 2,3480 Lawrence Ave E Unit 5,M1H 1A9,M1H,Scarborough,ON
+3,Clinic 3,4715 8 Ave Se,T2A 3N4,T2A,Calgary,AB
+4,Clinic 4,234 Dovedale Drive,L4P 0H3,L4P,Keswick,ON
+5,Clinic 5,3968 Rue Notre-Dame O Etage 2E,H4C 1R1,H4C,Montreal,QC
+6,Clinic 6,3400 Rue Du Marche Bureau 203,H9B 2Y1,H9B,Dollard-Des-Ormeaux,QC
+7,Clinic 7,1441 29 St Nw,T2N 4J8,T2N,Calgary,AB
+8,Clinic 8,910 Rue Labelle,J7Z 5M5,J7Z,Saint-Jerome,QC
+9,Clinic 9,32 Rue De La Reserve,G0T 1K0,G0T,Essipit,QC
+10,Clinic 10,1615 Boul Jacques-Cartier E Bureau 200,J4M 2X1,J4M,Longueuil,QC
+11,Clinic 11,66 Rue Sainte-Catherine E,H2X 1K6,H2X,Montreal,QC
+12,Clinic 12,345 Rumsey Rd,M4G 1R7,M4G,Toronto,ON
+13,Clinic 13,3713 Kensington Ave,V5B 0A7,V5B,Burnaby,BC
+14,Clinic 14,409 Tache Ave Room L1019,R2H 2A6,R2H,Winnipeg,MB
+15,Clinic 15,85 The East Mall,M8Z 5W4,M8Z,Etobicoke,ON
+16,Clinic 16,790 Bay St Suite 108,M5G 1N8,M5G,Toronto,ON
+17,Clinic 17,1221 Lakeshore Rd Suite 103,L7S 0A1,L7S,Burlington,ON
+18,Clinic 18,333 Lakeshore Rd W,L5H 1G9,L5H,Mississauga,ON
+19,Clinic 19,1811 St Joseph Blvd,K1C 7C6,K1C,Orleans,ON
+20,Clinic 20,76 Stuart St,K7L 2V7,K7L,Kingston,ON
+21,Clinic 21,1661 Montreal Rd,K1J 9B7,K1J,Gloucester,ON
+22,Clinic 22,399 Bathurst St Room 437,M5T 2S8,M5T,Toronto,ON
+23,Clinic 23,399 Bathurst St Room 2-405,M5T 2S8,M5T,Toronto,ON
+24,Clinic 24,40 Ruskin St Room H3238,K1Y 4W7,K1Y,Ottawa,ON
+25,Clinic 25,70 Victoria St,N0B 1S0,N0B,Elora,ON
+26,Clinic 26,460 Two Nations Cross,E3A 0X9,E3A,Fredericton,NB
+27,Clinic 27,2 Gurdwara Rd Suite 602,K2E 1A2,K2E,Nepean,ON
+28,Clinic 28,89 Dawson Rd Suite 208,N1H 1B1,N1H,Guelph,ON
+29,Clinic 29,6 Thompson Cres Unit 1 Ss 0001,N0B 1T0,N0B,Erin,ON
+30,Clinic 30,6038 Empress St,N8T 1B5,N8T,Windsor,ON
+31,Clinic 31,210 B Gran St,P6A 0C4,P6A,Batchewana First Nation,ON
+32,Clinic 32,6155 North Street Suite 406,B3K 5R3,B3K,Halifax,NS
+33,Clinic 33,50 Charlton Ave E Room F513,L8N 4A6,L8N,Hamilton,ON
+34,Clinic 34,3 Beck Blvd,L9M 1B9,L9M,Penetanguishene,ON
+35,Clinic 35,10 Cottrelle Blvd Unit 205,L6S 0E2,L6S,Brampton,ON
+36,Clinic 36,555 University Ave Room 1447,M5G 1X8,M5G,Toronto,ON
+37,Clinic 37,2 Bear Rd,R0E 1W0,R0E,Scanterbury,MB
+38,Clinic 38,180 Cambria Rd N,N7A 4N8,N7A,Goderich,ON
+39,Clinic 39,8440 112 St Nw,T6G 2B7,T6G,Edmonton,AB
+40,Clinic 40,899 12Th Ave W Room 2449,V5Z 1M9,V5Z,Vancouver,BC
+41,Clinic 41,4480 Oak St Room P3-246,V6H 3V4,V6H,Vancouver,BC
+42,Clinic 42,4804 50 St Suite 128,T4G 1C2,T4G,Innisfail,AB
+43,Clinic 43,5119 47 St Suite 301,T9V 0G1,T9V,Lloydminster,AB
+44,Clinic 44,10240 Kingsway  Nw Room 541,T5H 3V9,T5H,Edmonton,AB
+45,Clinic 45,803 1 Ave Ne Suite 306,T2E 7C5,T2E,Calgary,AB
+46,Clinic 46,6707 Elbow Dr Sw Suite 132,T2V 0E3,T2V,Calgary,AB
+47,Clinic 47,1403 29 St Nw Room 601,T2N 2T9,T2N,Calgary,AB
+48,Clinic 48,28 Oki Dr Nw,T3B 6A8,T3B,Calgary,AB
+49,Clinic 49,114 1 St Sw,T0L 0H0,T0L,Black Diamond,AB
+50,Clinic 50,3644 Slocan St,V5M 3E8,V5M,Vancouver,BC
+51,Clinic 51,960 19 St S,T1J 1W5,T1J,Lethbridge,AB
+52,Clinic 52,118 Cope Cres Suite 36,S7T 0X3,S7T,Saskatoon,SK
+53,Clinic 53,14127 23 Ave Nw Suite 308,T6R 0G4,T6R,Edmonton,AB
+54,Clinic 54,4132 50 Ave Suite 301,T4N 3Z2,T4N,Red Deer,AB
+55,Clinic 55,65 Angeline St N Suite 8,K9V 5N7,K9V,Lindsay,ON
+56,Clinic 56,5905 50 St,T9E 6S7,T9E,Leduc,AB
+57,Clinic 57,1620 29 St Nw Suite 120,T2N 4L7,T2N,Calgary,AB
+58,Clinic 58,3815 Front St Se Suite 125,T3M 2J6,T3M,Calgary,AB
+59,Clinic 59,303 9 Ave Sw Suite 201,T1V 0H2,T1V,High River,AB
+60,Clinic 60,11400 University Ave Nw Floor 7,T6G 1Z1,T6G,Edmonton,AB
+61,Clinic 61,8440 112 St Nw Room 1G1-62,T6G 2B7,T6G,Edmonton,AB
+62,Clinic 62,11010 101 St Nw Suite 203,T5H 4B9,T5H,Edmonton,AB
+63,Clinic 63,303 Lynx St Suite 207,T1L 1B3,T1L,Banff,AB
+64,Clinic 64,200 Boul Rene-Levesque O Bureau 612,H2Z 1X4,H2Z,Montreal,QC
+65,Clinic 65,1260 Golf Links Rd Suite 104,P7B 0A1,P7B,Thunder Bay,ON
+66,Clinic 66,9105 Sunset Dr,V2P 3X8,V2P,Chilliwack,BC
+67,Clinic 67,4448 Front St Se Room 310207,T3M 1M4,T3M,Calgary,AB
+68,Clinic 68,7609 109 St Nw Suite 300,T6G 1C3,T6G,Edmonton,AB
+69,Clinic 69,34 Cedar Pointe Dr Unit 505,L4N 5R7,L4N,Barrie,ON
+70,Clinic 70,1 P Manor Lane,K0L 1C0,K0L,Bancroft,ON
+71,Clinic 71,971 64 Ave Ne Unit 235,T2E 7Z4,T2E,Calgary,AB
+72,Clinic 72,620 Mckenzie Towne Dr Se Suite 102,T2Z 0Y6,T2Z,Calgary,AB
+73,Clinic 73,30 Springborough Blvd Sw Suite 108,T3H 0N9,T3H,Calgary,AB
+74,Clinic 74,5201 50 St Suite 30,T9E 6T4,T9E,Leduc,AB
+75,Clinic 75,10124 107 St,T7P 1X3,T7P,Westlock,AB
+76,Clinic 76,4406 50 Ave Suite 206,T4N 3Z6,T4N,Red Deer,AB
+77,Clinic 77,11010 101 St Nw Suite 350,T5H 4B9,T5H,Edmonton,AB
+78,Clinic 78,265 Dundas St E Room 356,K8N 5A9,K8N,Belleville,ON
+79,Clinic 79,1865 Dilworth Dr Suite 104,V1Y 9T1,V1Y,Kelowna,BC
+80,Clinic 80,59 Airport Rd. ,A1A 4Y3,A1A,St John's,NL
+81,Clinic 81,40 Ruskin St Room H2410,K1Y 4W7,K1Y,Ottawa,ON
+82,Clinic 82,11893 227 St Suite 108,V2X 6H9,V2X,Maple Ridge,BC
+83,Clinic 83,561 Eglinton Ave W,M5N 1B5,M5N,Toronto,ON
+84,Clinic 84,2775 Laurel St,V5Z 1M9,V5Z,Vancouver,BC
+85,Clinic 85,8440 112 St Nw Room Wmc-1C4,T6G 2B7,T6G,Edmonton,AB
+86,Clinic 86,267 O'Connor St Suite 306,K2P 1V3,K2P,Ottawa,ON
+87,Clinic 87,9909 102 St Room 928,T8V 2V4,T8V,Grande Prairie,AB
+88,Clinic 88,210 Melrose Ave,K1Y 4K7,K1Y,Ottawa,ON
+89,Clinic 89,1229 Queen St W,M6K 1L2,M6K,Toronto,ON
+90,Clinic 90,300 Silver Star Blvd Floor 2,M1V 0G2,M1V,Scarborough,ON
+91,Clinic 91,10240 Kingsway  Nw Room 201,T5H 3V9,T5H,Edmonton,AB
+92,Clinic 92,1053 Carling Ave Room 353,K1Y 4E9,K1Y,Ottawa,ON
+93,Clinic 93,13750 96 Ave,V3V 1Z2,V3V,Surrey,BC
+94,Clinic 94,Cfb Kingston,K7K 7B4,K7K,Kingston,ON
+95,Clinic 95,2120 Regent St Unit 2,P3E 3Z9,P3E,Sudbury,ON
+96,Clinic 96,770 Broadview Ave Suite 305,K2A 3Z3,K2A,Ottawa,ON
+97,Clinic 97,207 Hastings St W Suite 608,V6B 1H7,V6B,Vancouver,BC
+98,Clinic 98,10 Earlsbridge Blvd Suite 6,L7A 3P1,L7A,Brampton,ON
+99,Clinic 99,60 Murray St Room L5-210,M5T 3L9,M5T,Toronto,ON
+100,Clinic 100,1151 Richmond St Floor 2,N6A 5C1,N6A,London,ON
